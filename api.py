@@ -43,6 +43,7 @@ def cv():
         "redes" : {
             "github" : "https://github.com/nahueltori",
             "twitter" : "https://twitter.com/nahueltori",
+            "Facebook" :"https://facebook.com",
             "linkedin" : "https://www.linkedin.com/in/nahueltori"
         },
         "foto" : url_imagen
